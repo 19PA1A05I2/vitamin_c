@@ -1,0 +1,53 @@
+body{
+    background-color: red;
+}
+.main{
+    background-color: greenyellow;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+    text-shadow:2px 2px red;
+}
+.container{
+    background-color: pink;
+}
+img{
+    float:left;
+}
+.rounded{
+    height:80%;
+    width:80%;
+    border-radius:50%;
+    background-color: blanchedalmond;
+
+}
+h3{
+    color:darkmagenta
+}
+strong{
+    color: blue;
+}
+.ab{
+    background-color: crimson;
+    margin-bottom:12px;
+    color:cornsilk;
+    font-size:30px;
+}
+.cd{
+    background-color:greenyellow;
+    margin-bottom:12px;
+    color:black;
+    font-size: 30px;
+
+}
+p{
+    font-size:20px;
+}
+ul{
+    font-size:20px;
+}
+ol{
+    font-size:20px;
+}
